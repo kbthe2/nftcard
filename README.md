@@ -25,8 +25,8 @@ I completed CSS grid lesson via Dr ANgela's Yu Web Dev bootcamp and I applied th
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/kbthe2/nftcard)
+- Live Site URL: (https://kbthe2.github.io/nftcard/)
 
 ## My process
 
