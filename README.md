@@ -1,4 +1,3 @@
-# nftcard
 # Frontend Mentor - NFT preview card component solution
 
 This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
@@ -50,6 +49,10 @@ I completed CSS grid lesson via Dr ANgela's Yu Web Dev bootcamp and I applied th
     cursor: pointer;
 }
 ```
+```js
+const proudOfThisFunc = () => {
+  console.log('🎉')
+}
 
 ## Author
 
