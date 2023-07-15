@@ -49,10 +49,6 @@ I completed CSS grid lesson via Dr ANgela's Yu Web Dev bootcamp and I applied th
     cursor: pointer;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
 
 ## Author
 
